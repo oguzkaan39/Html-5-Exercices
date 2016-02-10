@@ -19,3 +19,34 @@ body{
   color:white;
   padding:30px;
 }
+#ana_menu li{
+  display:inline-block;
+  list-style:none;
+  font:bold 20px Calibri;
+  color:red;
+  padding-left:50px;
+}
+#banner_kismi {
+  float:center;
+  width:200px;
+  margin:10px;
+  padding:25px;
+  background-color:yellow;
+}
+#banner_kismi p {
+  font:bold 20px Calibri;
+  text-decoration: blink;
+}
+#alt_kisim {
+  text-align:left;
+  clear:both;
+  padding:10px;
+  border-top:1px dashed red;
+
+}
+#ana_makale {
+  text-align:left
+}
+#ana_makale footer {
+  text-align:center;
+}
