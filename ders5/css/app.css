@@ -1,0 +1,34 @@
+header, footer, article, hgroup, aside, section, nav{display:block;}
+body {
+  color: red;
+}
+.media-object-section {
+  margin:100px;
+  padding:100px;
+}
+.title-bar {
+  background-color:black;
+  text-align:right;
+}
+p {
+  color:red;
+}
+i {
+ font-size:30px; 
+}
+h1 {
+  color: blue;
+ 
+}
+head {
+  text-decoration:bold;
+}
+head {
+  float:center;
+}
+#tanitim{
+  width:350px;
+  border:1px white dashed;
+}
+
+
